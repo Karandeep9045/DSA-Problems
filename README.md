@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
