@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Karandeep9045/DSA-Problems/tree/master/0937-online-stock-span) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
