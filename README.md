@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0303-range-sum-query-immutable](https://github.com/Karandeep9045/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Karandeep9045/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Karandeep9045/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Karandeep9045/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Karandeep9045/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Karandeep9045/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/Karandeep9045/DSA-Problems/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
