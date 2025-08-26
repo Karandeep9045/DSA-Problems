@@ -17,10 +17,10 @@ class Solution {
                 st.push(i);
             }
         }
-        String result = "";
-        for(int i =0;i<ans.length;i++){
-            result+=ans[i];
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < ans.length; i++) {
+            sb.append(ans[i]);
         }
-        return result;
+        return sb.toString();
     }
 }
