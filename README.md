@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Karandeep9045/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
