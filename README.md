@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Karandeep9045/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1580-shuffle-the-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 ## Queue
 |  |
 | ------- |
@@ -141,4 +144,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
+| [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
