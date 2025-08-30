@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1580-shuffle-the-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
+| [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
