@@ -152,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
