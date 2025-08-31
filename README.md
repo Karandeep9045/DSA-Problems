@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Karandeep9045/DSA-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Karandeep9045/DSA-Problems/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0386-lexicographical-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Karandeep9045/DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
