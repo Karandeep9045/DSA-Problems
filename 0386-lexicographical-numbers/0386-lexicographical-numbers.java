@@ -1,20 +1,22 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
         List<Integer> list = new ArrayList<>();
-        for (int i = 1; i <= 9; i++) {
-            printnumber(n, String.valueOf(i), list);
-        }
-        return list;    
+        printnumber(0, n, list);
+        return list;
     }
 
-    public static void printnumber(int n, String ans, List<Integer> list) {
-        int val = Integer.parseInt(ans);
-        if (val > n)
+    public static void printnumber(int curr, int n, List<Integer> list) {
+        if (curr > n)
             return;
-        list.add(val);
-        for (int i = 0; i <= 9; i++) {
-            printnumber(n, ans + i, list);
+        if (curr != 0) {
+            list.add(curr);
         }
-
+        int i = 0;
+        if (curr == 0) {
+            i = 1;
+        }
+        for (; i <= 9; i++) {
+            printnumber(curr * 10 + i, n, list);
+        }
     }
 }
