@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karandeep9045/DSA-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Karandeep9045/DSA-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Karandeep9045/DSA-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
