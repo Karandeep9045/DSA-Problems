@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Karandeep9045/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1580-shuffle-the-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1580-shuffle-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
+| [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
