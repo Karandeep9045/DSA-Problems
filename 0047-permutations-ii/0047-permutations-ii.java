@@ -1,5 +1,6 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
+        Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         boolean[] used = new boolean[nums.length];
         permutation(nums, used, new ArrayList<>(), result);
@@ -8,13 +9,14 @@ class Solution {
 
     public static void permutation(int[] nums, boolean[] used, List<Integer> curr, List<List<Integer>> result) {
         if (curr.size() == nums.length) {
-           if(!result.contains(curr)){
-             result.add(new ArrayList<>(curr));
-           }
+            result.add(new ArrayList<>(curr));
             return;
         }
 
         for (int i = 0; i < nums.length; i++) {
+            if(i>0 && nums[i-1] == nums[i] && used[i-1] == false ){
+                continue;
+            }
             if (used[i] == false) {
                 used[i] = true;
                 curr.add(nums[i]);
