@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Karandeep9045/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0216-combination-sum-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Karandeep9045/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Karandeep9045/DSA-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
