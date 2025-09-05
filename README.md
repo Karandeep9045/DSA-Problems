@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Karandeep9045/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Karandeep9045/DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
+| [1319-unique-number-of-occurrences](https://github.com/Karandeep9045/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
