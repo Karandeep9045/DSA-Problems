@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Karandeep9045/DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Karandeep9045/DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karandeep9045/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Karandeep9045/DSA-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Karandeep9045/DSA-Problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Karandeep9045/DSA-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
