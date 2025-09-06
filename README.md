@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Karandeep9045/DSA-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karandeep9045/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Karandeep9045/DSA-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
