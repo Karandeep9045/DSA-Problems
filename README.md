@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Karandeep9045/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Karandeep9045/DSA-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Karandeep9045/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Karandeep9045/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Karandeep9045/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/Karandeep9045/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 ## String
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Karandeep9045/DSA-Problems/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/0179-largest-number) |
+| [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
