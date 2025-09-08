@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Karandeep9045/DSA-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karandeep9045/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/Karandeep9045/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Karandeep9045/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Karandeep9045/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Karandeep9045/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/Karandeep9045/DSA-Problems/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Karandeep9045/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Karandeep9045/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
