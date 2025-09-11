@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Karandeep9045/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/Karandeep9045/DSA-Problems/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
+| [2887-sort-vowels-in-a-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
