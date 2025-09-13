@@ -28,10 +28,9 @@ class Solution {
         list.add(root.val);
         if (root.left == null && root.right == null && target == root.val) {
             result.add(new ArrayList<>(list));
-        } else {
-            tree(root.left, target - root.val, result, list);
-            tree(root.right, target - root.val, result, list);
         }
+        tree(root.left, target - root.val, result, list);
+        tree(root.right, target - root.val, result, list);
 
         list.remove(list.size() - 1);
     }
