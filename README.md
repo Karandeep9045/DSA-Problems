@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/Karandeep9045/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karandeep9045/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karandeep9045/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karandeep9045/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
