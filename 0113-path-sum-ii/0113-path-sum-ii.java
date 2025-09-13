@@ -26,7 +26,7 @@ class Solution {
             return;
         }
         list.add(root.val);
-        if (root.left == null && root.right == null && target == root.val) {
+        if (root.left == null && root.right == null && target - root.val == 0) {
             result.add(new ArrayList<>(list));
         }
         tree(root.left, target - root.val, result, list);
