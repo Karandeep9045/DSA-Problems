@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karandeep9045/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karandeep9045/DSA-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Trie
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karandeep9045/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karandeep9045/DSA-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/Karandeep9045/DSA-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Karandeep9045/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karandeep9045/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Karandeep9045/DSA-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -281,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Karandeep9045/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karandeep9045/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Karandeep9045/DSA-Problems/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Karandeep9045/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
