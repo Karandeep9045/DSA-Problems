@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Karandeep9045/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Karandeep9045/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Karandeep9045/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Karandeep9045/DSA-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Karandeep9045/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Karandeep9045/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0837-most-common-word](https://github.com/Karandeep9045/DSA-Problems/tree/master/0837-most-common-word) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Karandeep9045/DSA-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/1651-shuffle-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Karandeep9045/DSA-Problems/tree/master/2887-sort-vowels-in-a-string) |
